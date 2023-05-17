@@ -1,0 +1,2 @@
+# SwiftCollectionTrainig
+Работа с коллекциями
